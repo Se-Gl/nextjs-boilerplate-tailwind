@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/Se-Gl/nextjs-boilerplate-tailwind/compare/v1.0.0...v1.0.1) (2023-05-09)
+
+
+### Bug Fixes
+
+* **repo:** reset package lock file, which may cause errors ([3c48ca9](https://github.com/Se-Gl/nextjs-boilerplate-tailwind/commit/3c48ca95f9c1cf6de6290dfc33d9dcfcf37fc179))
+
 # 1.0.0 (2023-05-09)
 
 ### Features
