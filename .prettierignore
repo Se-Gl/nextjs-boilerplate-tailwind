@@ -1,0 +1,14 @@
+# Ignore artifacts:
+node_modules
+build
+coverage
+.next
+.vscode
+
+# Ignore all HTML files:
+*.html
+
+styles/greenCSS.css
+styles\green.css
+
+cache/data.js
