@@ -1,3 +1,10 @@
+# 1.0.0 (2023-05-09)
+
+
+### Features
+
+* **repo:** first commit :rocket: ([c12dd08](https://github.com/Se-Gl/nextjs-boilerplate-tailwind/commit/c12dd081ac5d73057e7b220ead15e4aef06c6423))
+
 ## [1.0.2](https://github.com/Se-Gl/boilerplate/compare/v1.0.1...v1.0.2) (2023-03-09)
 
 ### Bug Fixes
