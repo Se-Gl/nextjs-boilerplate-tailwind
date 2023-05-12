@@ -14,6 +14,9 @@ module.exports = {
     extend: {
       padding: generateUtilities(-1440, 1440),
       margin: generateUtilities(-1440, 1440),
+      width: generateUtilities(-1440, 1440) && generateUtilities(0, 100, '%') && generateUtilities(0, 110, 'vw'),
+      height: generateUtilities(-1440, 1440) && generateUtilities(0, 100, '%') && generateUtilities(0, 110, 'vh'),
+      fontSize: generateUtilities(0, 200),
       lineHeight: generateUtilities(-100, 100)
     }
   },

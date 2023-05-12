@@ -3,12 +3,9 @@ node_modules
 build
 coverage
 .next
+.husky
+.github
 .vscode
 
 # Ignore all HTML files:
 *.html
-
-styles/greenCSS.css
-styles\green.css
-
-cache/data.js
