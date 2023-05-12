@@ -10,7 +10,9 @@ Install the dependencies
 
 ```bash
 # install all dependencies
-npm i
+npm install
+# set-up husky
+npm run prepare
 
 # ⚠️ If error, install husky and cypress manually
 npm install husky --save-dev
